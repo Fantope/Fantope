@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fantope
-- 👀 I’m interested in Machine Learning and Cyber Security, but I haven't tried anything yet.
+- 👀 I’m interested in Machine Learning and Cyber Security.
 - 🌱 I’m currently learning C on a telecommunications engineering degree.
 - 📫 How to reach me: a.nicora.sh@gmail.com
 
